@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nkishore
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.nishantkishore.com
+  * I am nkishore (https://keybase.io/nkishore) on keybase.
+  * I have a public key ASAyNmU3aKqP7Bd-SSUV3m6W-apAJI1TKuC5Y3hfZBZItAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200de306e45250d058cf71d36f17824c496379fa4865a0ac35a5e27f5fc2fe26f20a",
+      "host": "keybase.io",
+      "kid": "01203236653768aa8fec177e492515de6e96f9aa40248d532ae0b963785f641648b40a",
+      "uid": "f86a9a865be3dd16fbadef1e408f9719",
+      "username": "nkishore"
+    },
+    "merkle_root": {
+      "ctime": 1547987874,
+      "hash": "487ab18df70c627eb7d1f88ab6cab9871632db9403a12137d1e8f7283bf8b329b2b4cfeb80d87dc265da2d577ff139d5498d8caa2eb8ff1fc6b0fd03b12c438c",
+      "hash_meta": "bc27227b4a719f1ba6385344fc95bd10a6b9ce6f955e3ad0b3b165ee2d3a2e59",
+      "seqno": 4498953
+    },
+    "service": {
+      "entropy": "rCLTuM0QLsBdbT1Za1+H64Ph",
+      "hostname": "www.nishantkishore.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.1"
+  },
+  "ctime": 1547987929,
+  "expire_in": 504576000,
+  "prev": "af7df09370ff4f590b5f1b63fd9f516eef59d19771592d35f0a7271d8f39c9df",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMjZlN2iqj+wXfkklFd5ulvmqQCSNUyrguWN4X2QWSLQKp3BheWxvYWTESpcCDMQgr33wk3D/T1kLXxtj/Z9Rbu9Z0ZdxWS018KcnHY85yd/EIG/t/574WDwBot2qhwCtf7IjQ34lwWoVo3aubs4OtALqAgHCo3NpZ8RAaqoNipaDjd5sG1Wu5hEtfqKcZP+9lHRVc49hLgdu8YIYTBjdh49YGeAvjUiSe0AOHsgOdSWrrXHX8GRngpVECahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJj0xqtuiUNhiR/+0bD++mg/ul/k/nElb+YpH1m8eUw7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nkishore
+
+==================================================================
