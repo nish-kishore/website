@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 count: 5
 date: "2016-04-20T00:00:00+05:30"
 filter_category: ""
@@ -10,4 +10,3 @@ title: Recent Posts
 weight: 40
 widget: posts
 ---
-
